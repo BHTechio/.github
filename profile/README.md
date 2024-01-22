@@ -1,4 +1,4 @@
-# BHTechio
+# [BHTech.io](http://bhtech.io/)
 
 A Process Automation Startup - Saving time and money.
 
